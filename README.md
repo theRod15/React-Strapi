@@ -1,2 +1,1 @@
-# dbmedia
 "# NodeJS-Boilerplate" 
